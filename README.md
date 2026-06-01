@@ -25,8 +25,5 @@ Clean messy business sales data and prepare it for analysis.
 
 ## Screenshots
 
-<h3>Raw Data → Before Cleaning</h3> 
-![Raw Data](screenshots\row_Data.jpg)
-
-<h3>Clean Data → After Cleaning|</h3> 
-![Cleaned Data](screenshots\clean_Data.jpg)
+![Raw Data](screenshots/row_Data.jpg)
+![Cleaned Data](screenshots/clean_Data.jpg)
